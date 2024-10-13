@@ -163,7 +163,3 @@ Contributions are welcome! Feel free to open issues for bug reports, feature req
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This version is focused on image classification without the chat functionality.

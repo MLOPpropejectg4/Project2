@@ -5,3 +5,8 @@ fastapi
 uvicorn
 Pillow
 python-multipart
+pandas
+scikit-learn
+scipy
+evidently
+evidently[notebooks]
